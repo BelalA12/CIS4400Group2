@@ -1,1 +1,1 @@
-The puropse of the project goes here
+The docs of the project goes here
